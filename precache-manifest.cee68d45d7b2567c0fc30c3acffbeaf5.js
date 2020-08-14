@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e185810906913e1186ae0e76bb3b8ceb",
+    "revision": "9f61fa4478da9323bc32ff0e85a4b00e",
     "url": "/simple-counter-app/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-counter-app/static/css/2.f3cffc9e.chunk.css"
   },
   {
-    "revision": "e371c2f1424a8ae1b2fd",
+    "revision": "07b0964f2942d8368a22",
     "url": "/simple-counter-app/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/simple-counter-app/static/js/2.54236e57.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "e371c2f1424a8ae1b2fd",
-    "url": "/simple-counter-app/static/js/main.6ba992b3.chunk.js"
+    "revision": "07b0964f2942d8368a22",
+    "url": "/simple-counter-app/static/js/main.20ab181e.chunk.js"
   },
   {
     "revision": "0d996f08e1fb04e7d124",
