@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import Counters from './components/counters';
 import Navbar from './components/navbar';
 import './App.css';
-import { Switch, Route, Link} from 'react-router-dom';
+import { Switch, Route, Link } from 'react-router-dom';
 
 class App extends Component {
   state = {
@@ -55,7 +55,7 @@ class App extends Component {
     return (
       <div>
         <Switch>
-          <Route path="/cart"><Navbar count={this.state.counters.filter(c => c.value > 0).length} />
+          <Route path="/simple-counter-app" exact><Navbar count={this.state.counters.filter(c => c.value > 0).length} />
             <main className="container">
               <Counters
                 counters={this.state.counters}
@@ -74,9 +74,7 @@ class App extends Component {
               </ul>
             </main>
           </Route>
-          <Route path="/" exact><h2>Welcome Home</h2></Route>
         </Switch>
-        <Link to="/cart">Go to Cart</Link>
       </div>
     );
   }
