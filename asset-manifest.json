@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/simple-counter-app/static/css/main.5f361e03.chunk.css",
-    "main.js": "/simple-counter-app/static/js/main.20ab181e.chunk.js",
-    "main.js.map": "/simple-counter-app/static/js/main.20ab181e.chunk.js.map",
+    "main.js": "/simple-counter-app/static/js/main.d4d2fa95.chunk.js",
+    "main.js.map": "/simple-counter-app/static/js/main.d4d2fa95.chunk.js.map",
     "runtime-main.js": "/simple-counter-app/static/js/runtime-main.60afdbf5.js",
     "runtime-main.js.map": "/simple-counter-app/static/js/runtime-main.60afdbf5.js.map",
     "static/css/2.f3cffc9e.chunk.css": "/simple-counter-app/static/css/2.f3cffc9e.chunk.css",
     "static/js/2.54236e57.chunk.js": "/simple-counter-app/static/js/2.54236e57.chunk.js",
     "static/js/2.54236e57.chunk.js.map": "/simple-counter-app/static/js/2.54236e57.chunk.js.map",
     "index.html": "/simple-counter-app/index.html",
-    "precache-manifest.cee68d45d7b2567c0fc30c3acffbeaf5.js": "/simple-counter-app/precache-manifest.cee68d45d7b2567c0fc30c3acffbeaf5.js",
+    "precache-manifest.cd16328f9061dc01ce921e18b428c385.js": "/simple-counter-app/precache-manifest.cd16328f9061dc01ce921e18b428c385.js",
     "service-worker.js": "/simple-counter-app/service-worker.js",
     "static/css/2.f3cffc9e.chunk.css.map": "/simple-counter-app/static/css/2.f3cffc9e.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/simple-counter-app/static/css/main.5f361e03.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.f3cffc9e.chunk.css",
     "static/js/2.54236e57.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.20ab181e.chunk.js"
+    "static/js/main.d4d2fa95.chunk.js"
   ]
 }
